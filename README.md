@@ -1,2 +1,2 @@
-# CloudSim
-CloudSim - A cloud-native driving and traffic simulators for the next era [placeholder]
+# VivoCity
+VivoCity - A cloud-native driving and traffic simulator for the next era [placeholder]
