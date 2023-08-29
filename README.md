@@ -1,2 +1,2 @@
 # VivoCity
-VivoCity - A cloud-native driving and traffic simulator for the next era [placeholder]
+VivoCity - A cloud-native city simulator supporting metaverse as a backend service, applications of LLMs and more
