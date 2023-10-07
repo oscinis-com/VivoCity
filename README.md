@@ -1,2 +1,2 @@
-# VivoCity
-VivoCity - A cloud-native city simulator supporting metaverse as a backend service, applications of LLMs and more
+# VivoCity - Placeholder
+VivoCity - A cloud-native city simulator as a backend service coming in 11/2023
