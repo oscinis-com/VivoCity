@@ -1,2 +1,2 @@
 # VivoCity - Placeholder
-VivoCity - A cloud-native city simulator as a backend service coming in 11/2023
+VivoCity - A cloud-native city simulator as a backend service coming by 11/2023 or 1/2024
